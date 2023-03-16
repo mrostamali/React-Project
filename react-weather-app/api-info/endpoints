@@ -1,0 +1,9 @@
+API Key
+03810731462cc5db15cc042ef1fab260
+
+Endpoint
+https://api.openweathermap.org/data/2.5/{forecast/weather}?q={city}&units=metric&appid={api_key}
+
+Sample Endpoint
+https://api.openweathermap.org/data/2.5/weather?q=Edmonton&units=metric&appid=03810731462cc5db15cc042ef1fab260
+https://api.openweathermap.org/data/2.5/forecast?q=Edmonton&units=metric&appid=03810731462cc5db15cc042ef1fab260
